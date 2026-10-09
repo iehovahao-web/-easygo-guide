@@ -12,8 +12,8 @@
       if (!copied) {
         const input = document.createElement('textarea'); input.value = text; input.setAttribute('readonly', ''); input.style.cssText = 'position:fixed;top:-9999px'; document.body.appendChild(input); input.select(); const ok = document.execCommand('copy'); input.remove(); if (!ok) throw new Error('copy unavailable');
       }
-      tell('地址已复制，可粘贴到常用地图');
-    } catch (_) { tell('请长按或选中页面地址，手动复制'); }
+      tell(window.guideMessage('copied'));
+    } catch (_) { tell(window.guideMessage('copyFailed')); }
   }));
   const dialog = document.getElementById('image-dialog');
   const fullImage = document.getElementById('dialog-image');
