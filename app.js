@@ -5,8 +5,11 @@
   document.querySelectorAll('[data-copy]').forEach(button => button.addEventListener('click', async () => {
     const text = button.dataset.copy;
     try {
-      if (navigator.clipboard && window.isSecureContext) { await navigator.clipboard.writeText(text); }
-      else {
+      let copied = false;
+      if (navigator.clipboard && window.isSecureContext) {
+        try { await navigator.clipboard.writeText(text); copied = true; } catch (_) {}
+      }
+      if (!copied) {
         const input = document.createElement('textarea'); input.value = text; input.setAttribute('readonly', ''); input.style.cssText = 'position:fixed;top:-9999px'; document.body.appendChild(input); input.select(); const ok = document.execCommand('copy'); input.remove(); if (!ok) throw new Error('copy unavailable');
       }
       tell('地址已复制，可粘贴到常用地图');
