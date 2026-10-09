@@ -1,6 +1,6 @@
 # 关西旅行攻略
 
-### 巴图推荐 · EasyGo!
+### 巴图推荐
 
 [**Open the guide · 打开攻略 · ガイドを開く ↗**](https://iehovahao-web.github.io/-easygo-guide/)
 
