@@ -1,0 +1,32 @@
+{
+  "kagonoya": {
+    "name": "和食しゃぶしゃぶ かごの屋 大国町店",
+    "address": "大阪府大阪市浪速区敷津東2-6-16",
+    "officialSource": "https://kagonoya.food-kr.com/0658/",
+    "googleMapsUrl": "https://goo.gl/maps/1CAEEWiy9WSoGgMV9"
+  },
+  "aburiya": {
+    "name": "国産牛焼肉食べ放題 あぶりや あべのルシアス店",
+    "address": "〒545-0052 大阪府大阪市阿倍野区阿倍野筋1-5-1 あべのルシアスビル16F",
+    "officialSource": "https://aburiya.1dining.co.jp/store/?id=808",
+    "googleMapsUrl": "https://maps.google.com/maps?cid=4826901767006629121"
+  },
+  "daiko": {
+    "name": "大興寿司 本店",
+    "address": "〒556-0002 大阪府大阪市浪速区恵美須東3-2-18",
+    "officialSource": "https://daikosushi.jp/access/daikosushi-honten/",
+    "googleMapsUrl": "https://www.google.com/maps?cid=15134371316587236401"
+  },
+  "seaworld": {
+    "name": "神戸須磨シーワールド",
+    "address": "〒654-0049 兵庫県神戸市須磨区若宮町1丁目3-5",
+    "officialSource": "https://www.kobesuma-seaworld.jp/access/transportation/",
+    "googleMapsUrl": "https://www.google.co.jp/maps/dir//34.6438947%2C135.1279256?gl=JP&hl=jp"
+  },
+  "tsuruha": {
+    "name": "ツルハドラッグ（鹤羽药妆）",
+    "address": null,
+    "officialSource": "https://shop.tsuruha-g.com/",
+    "googleMapsUrl": null
+  }
+}
