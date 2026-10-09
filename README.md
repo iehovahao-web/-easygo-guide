@@ -22,7 +22,7 @@ Produced by **Hirotaki shoji Co., Ltd.** · © 2026. Third-party image rights re
 
 GitHub Pagesで無料公開する静的サイトで、有料APIは不要です。スマートフォン・タブレット・パソコン向けのレスポンシブ設計。Apple Vision ProではSafariをご利用ください。Apple TVではiPhone・iPad・MacからAirPlayで画面をミラーリングし、送信元の端末で操作します。tvOSの専用アプリではありません。
 
-制作：**浩瀧商事株式會社** · © 2026。第三者の画像の権利は、それぞれの権利者に帰属します。
+制作：**Hirotaki shoji Co., Ltd.** · © 2026。第三者の画像の権利は、それぞれの権利者に帰属します。
 
 <a id="chinese"></a>
 ## 中文
@@ -31,7 +31,7 @@ GitHub Pagesで無料公開する静的サイトで、有料APIは不要です�
 
 网站通过 GitHub Pages 免费提供，采用静态页面，无需付费 API。响应式布局面向手机、平板与电脑。Apple Vision Pro 请通过 Safari 访问；Apple TV 可通过 iPhone、iPad 或 Mac 的 AirPlay 屏幕镜像观看，并在投屏设备上操作，本项目没有原生 tvOS 应用。
 
-制作：**浩瀧商事株式會社** · © 2026。第三方图片的权利仍归各自权利人所有。
+制作：**Hirotaki shoji Co., Ltd.** · © 2026。第三方图片的权利仍归各自权利人所有。
 
 <a id="korean"></a>
 ## 한국어
@@ -98,4 +98,4 @@ Realizzato da **Hirotaki shoji Co., Ltd.** · © 2026. I diritti sulle immagini 
 
 ---
 
-**浩瀧商事株式會社 / Hirotaki shoji Co., Ltd.**
+**Hirotaki shoji Co., Ltd.**
