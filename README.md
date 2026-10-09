@@ -2,7 +2,7 @@
 
 ### 巴图推荐
 
-[**Open the guide · 打开攻略 · ガイドを開く ↗**](https://iehovahao-web.github.io/-easygo-guide/)
+[**Open the guide · 打开攻略 · ガイドを開く ↗**](https://iehovahao-web.github.io/kansai/)
 
 [English](#english) · [日本語](#japanese) · [中文](#chinese) · [한국어](#korean) · [Español](#spanish) · [Deutsch](#german) · [Français](#french) · [Italiano](#italian) · [العربية](#arabic) · [ไทย](#thai)
 

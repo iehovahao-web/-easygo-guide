@@ -70,3 +70,9 @@ html[lang=ko] :is(h1,h2,h3,p,.button){word-break:keep-all;overflow-wrap:break-wo
 .album-listen{margin-top:25px}.album-copy .album-listen{white-space:normal;text-align:center}
 
 .album-inner{grid-template-columns:minmax(200px,280px) minmax(0,1fr)}.album-artwork{display:block;box-shadow:8px 8px 0 #102c3b}.album-artwork img{display:block;width:100%;height:auto}.album-artwork:hover{outline:1px solid #dfb56d;outline-offset:4px}@media(max-width:680px){.album-inner{grid-template-columns:minmax(0,1fr);gap:30px}.album-artwork{width:min(100%,240px);margin:0}.album-copy h2{font-size:32px}}
+
+.guide-thanks{border-inline-start:2px solid #dca75b;background:#102e3b;padding:14px 17px;max-width:440px}.guide-thanks p{font-size:13px;line-height:1.9;color:#ebdfcc;margin:0}.guide-thanks strong{color:#f7c86e;font-weight:750}.guide-thanks bdi{white-space:nowrap}.hero-copy .guide-thanks{margin:0 0 22px}@media(max-width:680px){.hero-copy .guide-thanks{margin:10px 0 0}.guide-thanks{padding:13px 15px;max-width:none}.guide-thanks p{font-size:12px;line-height:1.95}}
+
+@media(max-width:680px){.guide-thanks{order:2}}
+
+.album-player{margin-top:26px}.album-player[hidden]{display:none}.album-player audio{display:block;width:100%;max-width:520px;margin-bottom:20px}.album-player h3{font-size:15px;color:#dfb56d}.album-player ol{padding-inline-start:22px}.album-player li{margin-block:8px}.album-player button{background:#133345;border:1px solid #416071;padding:10px 14px;text-align:start;width:100%;color:#f4e9d5}.album-player button[aria-current]{border-color:#dfb56d;color:#ffce78}.album-artwork:hover{outline:none}
