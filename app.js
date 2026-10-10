@@ -24,10 +24,11 @@
     if (!dialog.showModal) { window.open(button.dataset.image, '_blank', 'noopener'); return; }
     previousFocus = button;
     fullImage.src = button.dataset.image;
-    fullImage.alt = button.dataset.caption;
-    title.textContent = button.dataset.caption;
+    const caption = button.dataset.caption || button.querySelector('img')?.alt || document.getElementById('dialog-title').textContent;
+    fullImage.alt = caption;
+    title.textContent = caption;
     save.href = button.dataset.image;
-    save.download = button.dataset.filename || button.dataset.image.split('/').pop();
+    save.download = button.dataset.filename || caption.replace(/[\\/:*?"<>|]/g, '-') + '.jpeg';
     dialog.showModal(); document.body.classList.add('modal-open');
   }));
   function closeImage() { dialog.close(); }
