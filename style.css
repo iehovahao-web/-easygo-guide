@@ -76,3 +76,5 @@ html[lang=ko] :is(h1,h2,h3,p,.button){word-break:keep-all;overflow-wrap:break-wo
 @media(max-width:680px){.guide-thanks{order:2}}
 
 .album-player{margin-top:26px}.album-player[hidden]{display:none}.album-player audio{display:block;width:100%;max-width:520px;margin-bottom:20px}.album-player h3{font-size:15px;color:#dfb56d}.album-player ol{padding-inline-start:22px}.album-player li{margin-block:8px}.album-player button{background:#133345;border:1px solid #416071;padding:10px 14px;text-align:start;width:100%;color:#f4e9d5}.album-player button[aria-current]{border-color:#dfb56d;color:#ffce78}.album-artwork:hover{outline:none}
+
+.album-external-note{color:#b4c3cc;font-size:14px;margin:12px 0 0}.album-artwork:focus-visible{outline:3px solid #dfb56d;outline-offset:5px}
