@@ -1,10 +1,10 @@
-# 关西旅行攻略
+# 關西旅行攻略
 
-### 巴图推荐
+### 巴圖推薦
 
-[**Open the guide · 打开攻略 · ガイドを開く ↗**](https://iehovahao-web.github.io/kansai/)
+[**Open the guide · 打開攻略 · ガイドを開く ↗**](https://iehovahao-web.github.io/kansai/)
 
-[English](#english) · [日本語](#japanese) · [中文](#chinese) · [한국어](#korean) · [Español](#spanish) · [Deutsch](#german) · [Français](#french) · [Italiano](#italian) · [العربية](#arabic) · [ไทย](#thai)
+[English](#english) · [日本語](#japanese) · [正體中文](#chinese) · [한국어](#korean) · [Español](#spanish) · [Deutsch](#german) · [Français](#french) · [Italiano](#italian) · [العربية](#arabic) · [ไทย](#thai)
 
 <a id="english"></a>
 ## English
@@ -25,13 +25,13 @@ GitHub Pagesで無料公開する静的サイトで、有料APIは不要です�
 制作：**Hirotaki shoji Co., Ltd.** · © 2026。第三者の画像の権利は、それぞれの権利者に帰属します。
 
 <a id="chinese"></a>
-## 中文
+## 正體中文
 
-关西旅行随身指南，收录大阪美食与店铺、神户须磨海洋世界，以及购物参考和优惠券。选择界面语言，即可浏览攻略、打开地图链接；日本地址保留原文，方便导航和现场核对。出发前，请向商家或设施确认最新价格、营业时间、优惠券有效期及使用条件。
+關西旅行隨身指南，收錄大阪美食與店鋪、神戶須磨海洋世界，以及購物參考和優惠券。選擇介面語言，即可瀏覽攻略、打開地圖連結；日本地址保留原文，方便導航和現場核對。出發前，請向商家或設施確認最新價格、營業時間、優惠券有效期及使用條件。
 
-网站通过 GitHub Pages 免费提供，采用静态页面，无需付费 API。响应式布局面向手机、平板与电脑。Apple Vision Pro 请通过 Safari 访问；Apple TV 可通过 iPhone、iPad 或 Mac 的 AirPlay 屏幕镜像观看，并在投屏设备上操作，本项目没有原生 tvOS 应用。
+網站通過 GitHub Pages 免費提供，採用靜態頁面，無需付費 API。響應式版面面向手機、平板與電腦。Apple Vision Pro 請通過 Safari 訪問；Apple TV 可通過 iPhone、iPad 或 Mac 的 AirPlay 螢幕鏡像輸出觀看，並在傳送畫面的裝置上操作，本項目沒有原生 tvOS 應用。
 
-制作：**Hirotaki shoji Co., Ltd.** · © 2026。第三方图片的权利仍归各自权利人所有。
+製作：**Hirotaki shoji Co., Ltd.** · © 2026。第三方圖片的權利仍歸各自權利人所有。
 
 <a id="korean"></a>
 ## 한국어
